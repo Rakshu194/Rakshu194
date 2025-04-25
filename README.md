@@ -2,3 +2,4 @@
 - 👷 Aspiring Civil Engineer
 - 👀 keen interest in sustainable infrastructure and Designs
 - 😌 I’m currently doing internship in L&T metro project.
+- skills: AutoCAD| Revit
